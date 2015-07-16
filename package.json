@@ -22,5 +22,9 @@
   "files": [
     "lib",
     "index.js"
-  ]
+  ],
+  "devDependencies": {
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5"
+  }
 }
