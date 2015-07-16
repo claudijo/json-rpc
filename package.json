@@ -1,0 +1,22 @@
+{
+  "name": "json-rpc",
+  "version": "0.0.1",
+  "description": "Transport agnostic JSON-RPC client and server implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "claudijo.com"
+  },
+  "keywords": [
+    "JSON",
+    "RPC"
+  ],
+  "author": "Claudijo Borovic <hello@claudijo.com> (http://claudijo.com)",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^2.0.1"
+  }
+}

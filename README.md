@@ -1,0 +1,1 @@
+Transport agnostic JSON-RPC client and server implementation.
