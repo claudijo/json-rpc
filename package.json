@@ -18,5 +18,9 @@
   "license": "MIT",
   "dependencies": {
     "uuid": "^2.0.1"
-  }
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ]
 }
